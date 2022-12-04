@@ -9,7 +9,7 @@
   },
 
   "Social": [
-    { "label": "Email", "value": "bx-envelope", "link": "hgomezmachin@gmail.com" },
+    { "label": "Email", "value": "bx-envelope", "link": "" },
     { "label": "Link", "value": "bx-link", "link": "" },
     { "label": "GitHub", "value": "bxl-github", "link": "" },
     { "label": "Twitter", "value": "bxl-twitter", "link": "https://twitter.com/HenryGM93" },
